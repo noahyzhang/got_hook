@@ -1,0 +1,5 @@
+# cmake 的编译目录
+build
+
+# 二进制
+test
